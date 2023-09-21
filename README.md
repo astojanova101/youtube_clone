@@ -1,5 +1,7 @@
 You Tube Clone App
 
+The link from the deployed site: https://poetic-starburst-33dd30.netlify.app/
+
 Welcome to ModernTube, the next-generation video sharing platform that brings the best of YouTube to your fingertips! Our web app is built using the latest web development technologies, including JavaScript, React, API integration, hooks, and React Router DOM, to deliver an immersive and seamless video-sharing experience.
 
 Key Features:
